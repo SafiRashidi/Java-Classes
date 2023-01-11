@@ -1,0 +1,43 @@
+Scanner class:
+Helps use the input from keyboard.
+Logical Operators:
+    just another set of symbols that we can use to combine multiple boolean values.
+    there are 3 logical operators: 1)! - not    2)|| - or    3)&& - and
+
+Why should we learn about the logical operators?
+    we can greatly simplify the logic if we use these operators.
+
+
+What is the syntax:
+    they only work with boolean data type
+    if (! condition)                   not
+    if (condition1 || condition2)      or
+    if (condition1 && condition2)      and
+Not operators (!)
+    not is used to negate the boolean values if something is true it will make it false,
+    and if something is false it will make it true.
+
+What is a SwitchCase statement:
+    Switch case statements are just another of achieving the same result
+    as if-else-if conditions.
+
+Why should we learn about them:
+    it's very fast.
+Syntax:
+
+String var:
+    switch(var){
+    case 1:
+    sout "1"
+    break;
+    case 2:
+    {output}
+    break;
+    default:
+    {otherwise output}
+    }
+
+Rules that we should follow:
+    1) we can only use byte, short, int, char, String in switch case statement.
+    2) we can not use relational operators in switch case statement are also not allowed.
+    3) we cannot use logical operators
