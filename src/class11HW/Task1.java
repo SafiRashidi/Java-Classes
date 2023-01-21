@@ -1,6 +1,6 @@
 package class11HW;
 
-public class Task3 {
+public class Task1 {
     public static void main(String[] args) {
         /*
 Create a 2D array(shorter way) in which first array will consist of 4 names and second array will contain grades.
