@@ -1,5 +1,7 @@
 package class12;
 
+import java.util.Scanner;
+
 public class StringDemo11 {
     public static void main(String[] args) {
 
@@ -10,5 +12,6 @@ public class StringDemo11 {
 
         // we can also specify the starting point and the ending point
         System.out.println(str.substring(0,27));
+
     }
 }
