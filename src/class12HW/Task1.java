@@ -9,7 +9,8 @@ print the character in the middle of the String. For Example String str=hello =>
 */
         String str = "hello";
         if (!str.isEmpty()) {
-            if (str.length() % 2 == 1 && str.length() >= 3) {
+            // str.length() % 2 != 0 checks if the number of characters are odd
+            if (str.length() % 2 != 0 && str.length() >= 3) {
                 int middleIndex = str.length() / 2;
                 System.out.println(str.charAt(middleIndex));
             }

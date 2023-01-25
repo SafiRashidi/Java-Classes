@@ -4,13 +4,10 @@ public class Task2 {
     public static void main(String[] args) {
         // Create a String and print it in reverse order (Sunday → yadnuS).
 
-        String originalStr = "Friday";
-        String reverseStr = "";
+        String str = "Sunday";
 
-        for (int i = originalStr.length()-1; i >= 0; i--) {
-            reverseStr += originalStr.charAt(i);
+        for (int i = str.length()-1; i >= 0; i--) {
+            System.out.print(str.charAt(i));
         }
-        System.out.println("Original String: " + originalStr);
-        System.out.println("Reverse String: " + reverseStr);
     }
 }
