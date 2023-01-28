@@ -2,8 +2,8 @@ package projects;
 
 public class Project_5 {
     public static void main(String[] args) {
-        //Create a 2D array or integer type where you will store odd and even numbers.
-        // Develop a program which will identify/print the even numbers only.
+//5)Create a 2D array of integers. Develop a program which will calculate
+// the sum of  even and odd numbers for that array.
 
         int [][] numbers= {{10,17,18,21},
                            {8,23,7,36}};
