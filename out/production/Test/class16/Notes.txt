@@ -40,3 +40,4 @@ default:
     access inside any other class which is present inside the same package.
 public:
     public is a keyword. when written with any variable or method or class it means any class in your project
+    can access these things.
