@@ -24,4 +24,4 @@ Rules:
     2) If something can't be inherited we can't override it. for exp: private
     methods and constructors.
     3) Visibility of a method can be increased for exp: if something has default
-    access
+    access or protected access we can make it public, but we can't make it private.
