@@ -13,3 +13,7 @@ Note:
     1) Right click in editor inside your class and click on generate-> select the fields that you want
     in your constructor and click on done.
     2) if we press ctrl+o we get an option to override the available methods.
+
+Final keyword when we used with a variable the value will not be changed.
+when used with a method no one can override that method.
+when used with a class no class can inherit from it
