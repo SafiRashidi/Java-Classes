@@ -6,6 +6,9 @@ public class Dog {
     private String color;
     private String breed;
 
+    public Dog(String jacky, String green, String unknown) {
+    }
+
     public String getName() {
         return name;
     }
