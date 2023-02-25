@@ -16,7 +16,7 @@ Super (very rare)
 Overriding
 Implementing an interface
 Polymorphism
-Finak Keyword( maybe not )
+Final Keyword( maybe not )
 abstraction (important but not all the details)
 interface (important)
 Encapsulation(not important for selenium)

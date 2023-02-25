@@ -9,6 +9,10 @@ Polymorphism Syntax:
     1) for Static Polymorphism we only need to overload a method.
     2) for the dynamic Polymorphism we need to extend from a class we need to override the methods from the parent
     class that we want to us in Polymorphism.
+
+
+
+
 Final keyword:
     There are three main uses of the final keyword.
     1) when we use the final keyword with a variable we can't change its value once it is assigned.
